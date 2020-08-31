@@ -2,10 +2,7 @@ package com.xj.bsdiff;
 
 /**
  * 类说明： 	APK Patch工具类
- * 
- * @author 	Cundong
- * @date 	2013-9-6
- * @version 1.0
+ *
  */
 public class PatchUtils {
 
